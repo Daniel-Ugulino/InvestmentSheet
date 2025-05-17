@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Petrobras ON",
+    "code": "PETR3",
+    "fitch_url": "https://www.fitchratings.com/entity/petroleo-brasileiro-sa-petrobras-80090802"
+  },
+  {
+    "name": "Ambev",
+    "code": "ABEV3",
+    "fitch_url": null
+  },
+  {
+    "name": "AERIS",
+    "code": "AERI3",
+    "fitch_url": "https://www.fitchratings.com/entity/aeris-industria-e-comercio-de-equipamentos-para-geracao-de-energia-sa-97108213"
+  },
+  {
+    "name": "BrasilAgro",
+    "code": "AGRO3",
+    "fitch_url": null
+  },
+  {
+    "name": "Alpargatas",
+    "code": "ALPA4",
+    "fitch_url": null
+  },
+  {
+    "name": "Arezzo",
+    "code": "ARZZ3",
+    "fitch_url": null
+  },
+  {
+    "name": "Azul",
+    "code": "AZUL4",
+    "fitch_url": "https://www.fitchratings.com/entity/azul-sa-94775300"
+  },
+  {
+    "name": "B3 S.A.",
+    "code": "B3SA3",
+    "fitch_url": "https://www.fitchratings.com/entity/b3-sa-brasil-bolsa-balcao-97156065"
+  },
+  {
+    "name": "Banco do Brasil",
+    "code": "BBAS3",
+    "fitch_url": "https://www.fitchratings.com/entity/banco-do-brasil-sa-80089721"
+  },
+  {
+    "name": "Banco Bradesco",
+    "code": "BBDC4",
+    "fitch_url": "https://www.fitchratings.com/entity/banco-bradesco-sa-80089720"
+  },
+  {
+    "name": "BB Seguridade",
+    "code": "BBSE3",
+    "fitch_url": "https://www.fitchratings.com/entity/banco-do-brasil-sa-80089721"
+  },
+  {
+    "name": "Minerva S.A.",
+    "code": "BEEF3",
+    "fitch_url": "https://www.fitchratings.com/entity/minerva-sa-84533869"
+  },
+  {
+    "name": "Casas Bahia S.A.",
+    "code": "BHIA3",
+    "fitch_url": null
+  },
+  {
+    "name": "Banco BTG Pactual",
+    "code": "BPAC11",
+    "fitch_url": "https://www.fitchratings.com/entity/btg-pactual-holding-sa-92310290"
+  },
+  {
+    "name": "Bradespar S.A.",
+    "code": "BRAP4",
+    "fitch_url": "https://www.fitchratings.com/entity/bradespar-sa-87072170"
+  },
+  {
+    "name": "BRF S.A.",
+    "code": "BRFS3",
+    "fitch_url": "https://www.fitchratings.com/entity/brf-sa-90455677"
+  },
+  {
+    "name": "Braskem S.A.",
+    "code": "BRKM5",
+    "fitch_url": "https://www.fitchratings.com/entity/braskem-sa-80092141"
+  },
+  {
+    "name": "BR Malls Part. S.A.",
+    "code": "BRML3",
+    "fitch_url": "https://www.fitchratings.com/entity/br-malls-participacoes-sa-87213182"
+  },
+  {
+    "name": "B2W Comp. Digital",
+    "code": "BTOW3",
+    "fitch_url": null
+  },
+  {
+    "name": "Camil Alimentos S.A.",
+    "code": "CAML3",
+    "fitch_url": null
+  },
+  {
+    "name": "CCR S.A.",
+    "code": "CCRO3",
+    "fitch_url": null
+  },
+  {
+    "name": "CEMIG",
+    "code": "CMIG4",
+    "fitch_url": "https://www.fitchratings.com/entity/companhia-energetica-de-minas-gerais-cemig-80614480"
+  },
+  {
+    "name": "CSN Mineração S.A.",
+    "code": "CMIN3",
+    "fitch_url": "https://www.fitchratings.com/entity/companhia-siderurgica-nacional-csn-80091767"
+  },
+  {
+    "name": "Cogna Educação S.A.",
+    "code": "COGN3",
+    "fitch_url": "https://www.fitchratings.com/entity/cogna-educacao-sa-92741290"
+  },
+  {
+    "name": "CPFL Energia S.A.",
+    "code": "CPFE3",
+    "fitch_url": "https://www.fitchratings.com/entity/cpfl-energia-sa-80492394"
+  },
+  {
+    "name": "Copel Energia",
+    "code": "CPLE6",
+    "fitch_url": "https://www.fitchratings.com/entity/companhia-paranaense-de-energia-copel-80614489"
+  },
+  {
+    "name": "Carrefour Brasil",
+    "code": "CRFB3",
+    "fitch_url": null
+  },
+  {
+    "name": "Cosan S.A.",
+    "code": "CSAN3",
+    "fitch_url": "https://www.fitchratings.com/entity/cosan-sa-88173461"
+  },
+  {
+    "name": "CSN Comp.Sid. Nac.",
+    "code": "CSNA3",
+    "fitch_url": "https://www.fitchratings.com/entity/companhia-siderurgica-nacional-csn-80091767"
+  },
+  {
+    "name": "Engie Brasil Energia",
+    "code": "EGIE3",
+    "fitch_url": "https://www.fitchratings.com/entity/engie-sa-80361337"
+  },
+  {
+    "name": "Eletrobras",
+    "code": "ELET3",
+    "fitch_url": "https://www.fitchratings.com/entity/centrais-eletricas-brasileiras-sa-eletrobras-80464173"
+  },
+  {
+    "name": "Embraer S.A.",
+    "code": "EMBR3",
+    "fitch_url": "https://www.fitchratings.com/entity/embraer-sa-94402890"
+  },
+  {
+    "name": "EDP - Energ. do Brasil",
+    "code": "ENBR3",
+    "fitch_url": "https://www.fitchratings.com/entity/edp-energias-do-brasil-sa-94762090"
+  },
+  {
+    "name": "Equatorial Energia S.A.",
+    "code": "EQTL3",
+    "fitch_url": "https://www.fitchratings.com/entity/equatorial-transmissao-sa-97153792"
+  },
+  {
+    "name": "Fleury S.A.",
+    "code": "FLRY3",
+    "fitch_url": null
+  },
+  {
+    "name": "Fras-le S.A.",
+    "code": "FRAS3",
+    "fitch_url": null
+  },
+  {
+    "name": "Gerdau S.A.",
+    "code": "GGBR4",
+    "fitch_url": "https://www.fitchratings.com/entity/gerdau-sa-82273687"
+  },
+  {
+    "name": "Grupo Mateus S.A.",
+    "code": "GMAT3",
+    "fitch_url": null
+  },
+  {
+    "name": "Gol Linhas Aéreas",
+    "code": "GOLL4",
+    "fitch_url": "https://www.fitchratings.com/entity/gol-linhas-aereas-sa-90627689"
+  },
+  {
+    "name": "Hapvida Part. Invest.",
+    "code": "HAPV3",
+    "fitch_url": "https://www.fitchratings.com/entity/hapvida-participacoes-e-investimentos-sa-96783531"
+  },
+  {
+    "name": "Hering S.A.",
+    "code": "HGTX3",
+    "fitch_url": null
+  },
+  {
+    "name": "Itaúsa S.A.",
+    "code": "ITSA4",
+    "fitch_url": "https://www.fitchratings.com/entity/itausa-sa-97407242"
+  },
+  {
+    "name": "Itaú Unibanco S.A.",
+    "code": "ITUB4",
+    "fitch_url": "https://www.fitchratings.com/entity/itau-unibanco-holding-sa-80609415"
+  },
+  {
+    "name": "JBS S.A.",
+    "code": "JBSS3",
+    "fitch_url": "https://www.fitchratings.com/entity/jbs-sa-87468174"
+  },
+  {
+    "name": "Lojas Americanas S.A.",
+    "code": "LAME4",
+    "fitch_url": null
+  },
+  {
+    "name": "Mahle Metal Leve S.A.",
+    "code": "LEVE3",
+    "fitch_url": null
+  },
+  {
+    "name": "Lojas Renner S.A.",
+    "code": "LREN3",
+    "fitch_url": null
+  },
+  {
+    "name": "M. Dias Branco S.A.",
+    "code": "MDIA3",
+    "fitch_url": "https://www.fitchratings.com/entity/m-dias-branco-sa-industria-e-comercio-de-alimentos-96568122"
+  },
+  {
+    "name": "Magazine Luiza S.A.",
+    "code": "MGLU3",
+    "fitch_url": null
+  },
+  {
+    "name": "Movida Participações",
+    "code": "MOVI3",
+    "fitch_url": "https://www.fitchratings.com/entity/movida-participacoes-sa-96487716"
+  },
+  {
+    "name": "Marfrig Global Foods",
+    "code": "MRFG3",
+    "fitch_url": "https://www.fitchratings.com/entity/marfrig-global-foods-sa-87227374"
+  },
+  {
+    "name": "Multiplan Emp.Imob.",
+    "code": "MULT3",
+    "fitch_url": "https://www.fitchratings.com/entity/multiplan-empreendimentos-imobiliarios-sa-96177986"
+  },
+  {
+    "name": "Iochpe-Maxion S.A.",
+    "code": "MYPK3",
+    "fitch_url": null
+  },
+  {
+    "name": "Comp. Brasileira Dist.",
+    "code": "PCAR3",
+    "fitch_url": "https://www.fitchratings.com/entity/companhia-brasileira-de-distribuicao-sa-cbd-80438369"
+  },
+  {
+    "name": "Petrobras PN",
+    "code": "PETR4",
+    "fitch_url": "https://www.fitchratings.com/entity/petroleo-brasileiro-sa-petrobras-80090802"
+  },
+  {
+    "name": "Petz S.A.",
+    "code": "PETZ3",
+    "fitch_url": null
+  },
+  {
+    "name": "Marcopolo S.A.",
+    "code": "POMO4",
+    "fitch_url": null
+  },
+  {
+    "name": "PetroRio S.A.",
+    "code": "PRIO3",
+    "fitch_url": null
+  },
+  {
+    "name": "Porto Seguro S.A.",
+    "code": "PSSA3",
+    "fitch_url": null
+  },
+  {
+    "name": "Qualicorp",
+    "code": "QUAL3",
+    "fitch_url": null
+  },
+  {
+    "name": "Raia Drogasil S.A.",
+    "code": "RADL3",
+    "fitch_url": "https://www.fitchratings.com/entity/raia-drogasil-sa-96487134"
+  },
+  {
+    "name": "Rumo S.A.",
+    "code": "RAIL3",
+    "fitch_url": "https://www.fitchratings.com/entity/rumo-sa-80614433"
+  },
+  {
+    "name": "Randon S.A.",
+    "code": "RAPT4",
+    "fitch_url": null
+  },
+  {
+    "name": "Localiza Rent a Car",
+    "code": "RENT3",
+    "fitch_url": "https://www.fitchratings.com/entity/localiza-rent-car-sa-90199061"
+  },
+  {
+    "name": "Indústrias Romi S.A.",
+    "code": "ROMI3",
+    "fitch_url": null
+  },
+  {
+    "name": "Banco Santander",
+    "code": "SANB11",
+    "fitch_url": "https://www.fitchratings.com/entity/banco-santander-sa-80360562"
+  },
+  {
+    "name": "Sanepar",
+    "code": "SAPR11",
+    "fitch_url": "https://www.fitchratings.com/entity/companhia-de-saneamento-do-parana-sanepar-96358618"
+  },
+  {
+    "name": "Schulz S.A.",
+    "code": "SHUL4",
+    "fitch_url": null
+  },
+  {
+    "name": "SLC Agrícola S.A.",
+    "code": "SLCE3",
+    "fitch_url": null
+  },
+  {
+    "name": "São Martinho S.A.",
+    "code": "SMTO3",
+    "fitch_url": null
+  },
+  {
+    "name": "Grupo Soma S.A.",
+    "code": "SOMA3",
+    "fitch_url": null
+  },
+  {
+    "name": "Suzano S.A.",
+    "code": "SUZB3",
+    "fitch_url": "https://www.fitchratings.com/entity/suzano-sa-80092054"
+  },
+  {
+    "name": "TAEESA",
+    "code": "TAEE11",
+    "fitch_url": null
+  },
+  {
+    "name": "TIM S.A.",
+    "code": "TIMS3",
+    "fitch_url": "https://www.fitchratings.com/entity/tim-sa-97088596"
+  },
+  {
+    "name": "Totvs S.A.",
+    "code": "TOTS3",
+    "fitch_url": "https://www.fitchratings.com/entity/totvs-sa-96738486"
+  },
+  {
+    "name": "Tupy S.A.",
+    "code": "TUPY3",
+    "fitch_url": "https://www.fitchratings.com/entity/tupy-sa-94298109"
+  },
+  {
+    "name": "Ultrapar",
+    "code": "UGPA3",
+    "fitch_url": null
+  },
+  {
+    "name": "Usiminas",
+    "code": "USIM5",
+    "fitch_url": "https://www.fitchratings.com/entity/usinas-siderurgicas-de-minas-gerais-sa-usiminas-84742070"
+  },
+  {
+    "name": "Vale S.A.",
+    "code": "VALE3",
+    "fitch_url": "https://www.fitchratings.com/entity/vale-sa-80090452"
+  },
+  {
+    "name": "Telefônica Brasil S.A.",
+    "code": "VIVT3",
+    "fitch_url": "https://www.fitchratings.com/entity/telefonica-brasil-sa-88576199"
+  },
+  {
+    "name": "Vulcabras Azaleia S.A.",
+    "code": "VULC3",
+    "fitch_url": null
+  },
+  {
+    "name": "Via Varejo S.A.",
+    "code": "VVAR3",
+    "fitch_url": null
+  },
+  {
+    "name": "WEG S.A.",
+    "code": "WEGE3",
+    "fitch_url": null
+  },
+  {
+    "name": "Yduqs Part. S.A.",
+    "code": "YDUQ3",
+    "fitch_url": null
+  }
+]

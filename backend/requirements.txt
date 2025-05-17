@@ -1,0 +1,8 @@
+# langchain-openai
+pydantic
+schedule
+python-dotenv
+selenium
+# openai
+# browser-use
+pymongo

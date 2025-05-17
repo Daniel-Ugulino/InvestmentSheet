@@ -1,0 +1,52 @@
+version: '3.3'
+services:
+  investmentsheet:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    image: investmentsheet
+    container_name: investmentsheet
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app
+    env_file:
+      - ./backend/.env
+    depends_on:
+      - mongo-db
+      - selenium
+    networks:
+      - investmentsheet-network
+
+  mongo-db:
+    image: mongo:latest
+    container_name: mongo-db
+    command: mongod --quiet --logpath /dev/null 
+    logging:
+      driver: none
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: investmentsheet
+      MONGO_INITDB_ROOT_PASSWORD: jxXyh7FugWpUV
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+    networks:
+      - investmentsheet-network
+      
+  selenium:
+    image: selenium/standalone-chrome
+    container_name: selenium
+    ports:
+      - "4444:4444"
+    shm_size: '2gb'
+    networks:
+      - investmentsheet-network
+
+volumes:
+  mongo-data:
+    driver: local
+
+networks:
+  investmentsheet-network:
+    driver: bridge
