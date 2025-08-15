@@ -1,8 +1,9 @@
-# langchain-openai
 pydantic
 schedule
 python-dotenv
 selenium
-# openai
-# browser-use
 pymongo
+uvicorn[standard]
+fastapi[standard]
+python-crontab
+pandas
