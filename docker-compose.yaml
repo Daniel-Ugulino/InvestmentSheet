@@ -4,7 +4,6 @@ services:
     build:
       context: ./backend
       dockerfile: Dockerfile
-    image: investmentsheet
     container_name: investmentsheet
     ports:
       - "8000:8000"
@@ -42,6 +41,8 @@ services:
     shm_size: '2gb'
     networks:
       - investmentsheet-network
+    logging:
+      driver: "none"  
 
 volumes:
   mongo-data:
