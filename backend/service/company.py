@@ -32,4 +32,13 @@ class companyService:
         except Exception as e:
             print(f"Error retrieving all companies: {e}")
             return []
+        
+        
+    async def createMany(self, shares):
+        try:
+            self.db.insert_many(shares)
+            return shares
+        except Exception as e:
+            # logger.info(f"Error creating share: {e}")
+            return None
     

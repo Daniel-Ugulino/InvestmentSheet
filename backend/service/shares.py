@@ -56,3 +56,12 @@ class sharesService:
         except Exception as e:
             logger.info(f"Error creating share: {e}")
             return None
+
+    async def createMany(self, shares):
+        try:
+            print(f"Inserting {len(shares)} shares")
+            self.db.insert_many(shares)
+            return shares
+        except Exception as e:
+            logger.info(f"Error creating share: {e}")
+            return None

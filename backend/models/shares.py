@@ -46,3 +46,6 @@ class Shares(BaseModel):
     
     def __setattr__(self, name, value):
         return super().__setattr__(name, value)
+
+    def to_dump(self):
+        return self.model_dump(by_alias=True)
