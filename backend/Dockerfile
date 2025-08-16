@@ -23,7 +23,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 # RUN patchright install --with-deps
 
 COPY . .
-RUN echo "30 12 25 * * root bash -c 'set -a; source /app/.env; /usr/local/bin/python3 -m utils.dataloader >> /var/log/cron.log 2>&1'" > /etc/cron.d/investmentCron \    && chmod 0644 /etc/cron.d/investmentCron \
+RUN echo "30 12 15 * * root bash -c 'set -a; source /app/.env; /usr/local/bin/python3 -m utils.dataloader >> /var/log/cron.log 2>&1'" > /etc/cron.d/investmentCron \    && chmod 0644 /etc/cron.d/investmentCron \
     && crontab /etc/cron.d/investmentCron
 
 
